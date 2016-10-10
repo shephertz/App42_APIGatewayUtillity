@@ -92,7 +92,7 @@ public class APIGatewayUtillity {
 		 /* String apiName = "apiName";
 		  String version = "apiVersion";
 		  String body = "";
-		  String signature = generateSignature(apiName,version,clientId,clientSecret,body);
+		  String signature = generateSignature(apiName,version,IAM_KEY,IAM_Secret_KEY,body);
 		  System.out.println("Signature: "+signature);
 		 */
 		
